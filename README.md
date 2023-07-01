@@ -14,3 +14,16 @@ The general questions that I am planning to answer are follows:
 - Do socially aware movies get low budgets and box office collections?
 
 2. The second part is Exploratory data analysis on the data big data combined using PySpark.
+
+The major questions that I am going to address in this section are:
+
+- Exploring the average user ratings across various movie genres as well as social issue categories.
+Are certain themes are more popular than others? Are certain social issues more palatable to the
+public?
+- What is the distribution of revenue and budget values? Does this distribution change for indie
+movies? Further, are revenue and budget values genre specific in nature?
+- Using linear regression , predict the average user ratings using the multitude of columns in the data.
+The idea is to see if the major variables have any bearing on the average user rating.
+- There are tags for each movie left by a reviewer, these tags are analysed using a tag genome for
+their actual relation to the movie. We check the distribution of this genome score, what is the
+relevance rating for tags to movies?
