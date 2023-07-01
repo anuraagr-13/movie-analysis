@@ -7,7 +7,7 @@ I have grown up watching a lot of movies and the fact of the matter is that it h
 
 1. The first part is the Data Processing and Analysis using Spark SQL and MapReduce. The flowchart of this process is provided.
 
-![Flowchart](Data Processing Flowchart.png)
+![Flowchart]("Data Processing Flowchart.png")
 
 The general questions that I am planning to answer are follows:
 
