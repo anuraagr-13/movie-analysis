@@ -5,9 +5,9 @@ I have grown up watching a lot of movies and the fact of the matter is that it h
 
 **Hence, I am interested in finding out whether movies that tackle social issues/hard-hitting topics get their share of recognition.**
 
-1. The first part is the Data Processing and Analysis using Spark SQL and MapReduce. The flowchart of this process is provided.
+###  1. The first part is the Data Processing and Analysis using Spark SQL and MapReduce. The flowchart of this process is provided.
 
-<img width="694" alt="Data Processing Flowchart" src="https://github.com/anuraagr-13/movie-analysis/assets/32942643/2258abb0-9ec9-442e-9c06-0b24f1220a3a">
+<img width="694" alt="Data Processing Flowchart" src="https://github.com/anuraagr-13/movie-analysis/assets/32942643/2258abb0-9ec9-442e-9c06-0b24f1220a3a" align="center">
 
 The general questions that I am planning to answer are follows:
 
@@ -15,7 +15,7 @@ The general questions that I am planning to answer are follows:
 - Do audiences prefer certain themes of movies over others. Are there certain themes thataudience do not want to see on the big screen?
 - Do socially aware movies get low budgets and box office collections?
 
-2. The second part is Exploratory data analysis on the data big data combined using PySpark.
+### 2. The second part is Exploratory data analysis on the data big data combined using PySpark.
 
 The major questions that I am going to address in this section are:
 
@@ -30,4 +30,4 @@ The idea is to see if the major variables have any bearing on the average user r
 their actual relation to the movie. We check the distribution of this genome score, what is the
 relevance rating for tags to movies?
 
-The output plots from the analysis are in the "Plots" folder.
+**The output plots from the analysis are in the "Plots" folder.**
