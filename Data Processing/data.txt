@@ -1,0 +1,3 @@
+IMDB Data Link: https://datasets.imdbws.com
+MovieLens Data Link: https://grouplens.org/datasets/movielens/
+TMDB API Link: https://developers.themoviedb.org/3/movies/get-movie-details
