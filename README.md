@@ -1,4 +1,4 @@
-# movie-analysis
+# Movie Database analysis to check for societal impact
 The focus of the project is the social impact of movies and TV shows.
 
 I have grown up watching a lot of movies and the fact of the matter is that it has certainly played a role in shaping my personality. So,in the past few years, I was thinking about the importance of societal awareness that certain movie plots carry and the lack of appreciation received by such movies in the mainstream audience.  
@@ -27,3 +27,5 @@ The idea is to see if the major variables have any bearing on the average user r
 - There are tags for each movie left by a reviewer, these tags are analysed using a tag genome for
 their actual relation to the movie. We check the distribution of this genome score, what is the
 relevance rating for tags to movies?
+
+The output plots from the analysis are in the "Plots" folder.
