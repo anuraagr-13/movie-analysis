@@ -7,7 +7,7 @@ I have grown up watching a lot of movies and the fact of the matter is that it h
 
 1. The first part is the Data Processing and Analysis using Spark SQL and MapReduce. The flowchart of this process is provided.
 
-![Flowchart]("Data Processing Flowchart.png")
+<img width="694" alt="Data Processing Flowchart" src="https://github.com/anuraagr-13/movie-analysis/assets/32942643/2258abb0-9ec9-442e-9c06-0b24f1220a3a">
 
 The general questions that I am planning to answer are follows:
 
